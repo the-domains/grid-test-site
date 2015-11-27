@@ -2,6 +2,7 @@ name: Grid Test Site
 favicon: null
 layout_spectrum: 0.5162480471190065
 typography_spectrum: 0.4611723544076085
+title: Grid Test Site
 cta:
   domain: null
   bucket: null
